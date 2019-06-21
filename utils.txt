@@ -21,18 +21,24 @@
 	- https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1468-0394.2004.00265.x #phe-Q learning #could be the same as the previous, check it out 
 	- https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=973515 #another multi-agent like phe-Q alg
 	
+## K-means ref:
+	- https://onlinelibrary.wiley.com/doi/full/10.1348/000711005X48266
 
 ## GA ref:
 	- https://gist.github.com/turbofart/3428880
 	- https://gist.github.com/NicolleLouis/d4f88d5bd566298d4279bcb69934f51d
 	- http://www.theprojectspot.com/tutorial-post/applying-a-genetic-algorithm-to-the-travelling-salesman-problem/5
 	- https://towardsdatascience.com/evolution-of-a-salesman-a-complete-genetic-algorithm-tutorial-for-python-6fe5d2b3ca35
+	- https://pdfs.semanticscholar.org/f5d7/e26f21603c13dfe8e412106127039a547edb.pdf?_ga=2.103435456.1909448.1560840090-74532791.1560196406 [genetic with different selection startegies]
 
 ## Genomic hybrid
 	- https://ieeexplore.ieee.org/document/5178938/keywords#keywords
 	- https://ieeexplore.ieee.org/document/4389652
 	- https://www.researchgate.net/publication/221909672_Hybrid_Metaheuristics_Using_Reinforcement_Learning_Applied_to_Salesman_Traveling_Problem
-
+	- https://ieeexplore.ieee.org/abstract/document/4531202
+	- https://ieeexplore.ieee.org/document/7603158 [k-means with GA]
+	- http://eprints.iisc.ernet.in/2937/ [other k-means with GA]
+	
 ## GA with RL
 	- https://github.com/mpatacchiola/dissecting-reinforcement-learning (RL with GA but useful to better understand GA)
 	- https://pdfs.semanticscholar.org/4ed9/3dab19e1d90df50dfcdc5fce12d581e86e94.pdf (GA with RL) [synopsis only]
@@ -40,3 +46,7 @@
 
 ## RL in python
 	- https://learndatasci.com/tutorials/reinforcement-q-learning-scratch-python-openai-gym/
+	
+	
+## VM CPU:
+    - Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz
